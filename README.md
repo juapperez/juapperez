@@ -1,16 +1,15 @@
 ![Header](./github-header-image.png)
 
-<!--
-**juapperez/juapperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 FullStack Developer | Building Exceptional Digital Solutions 🌐
 
-Here are some ideas to get you started:
+Passionate FullStack Developer with expertise in front-end and back-end technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-end: HTML, CSS, JavaScript (React, Vue.js, Angular) | Back-end: Node.js, Python, Ruby on Rails, Django.
+
+Database: MySQL, PostgreSQL, Firebase | RESTful APIs & GraphQL.
+
+Open-source enthusiast, embracing collaborative development.
+
+Continuously exploring the latest technologies and frameworks.
+
+Let's connect and create something amazing together! Happy coding! 😄
