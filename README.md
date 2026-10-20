@@ -34,5 +34,6 @@ Python (Django, FastAPI, LangChain) · PostgreSQL · TypeScript (React, Next.js,
 ## Elsewhere
 
 - App Store: [all apps](https://apps.apple.com/us/developer/id6794666446)
+- LinkedIn: [juanpabloperezdev](https://www.linkedin.com/in/juanpabloperezdev/)
 - X: [@juapper](https://x.com/juapper)
 - [naeku.io](https://naeku.io) · [ytrocket.com](https://ytrocket.com)
