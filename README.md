@@ -19,6 +19,7 @@ I build apps for musicians and the back-office software that pays them.
 
 | Repo | What it is |
 |---|---|
+| [expo-alphatab](https://github.com/juapperez/expo-alphatab) | Guitar Pro / MusicXML / alphaTex scores in an Expo app: alphaTab inside a WebView, fully offline. The engine behind Fretbox. |
 | [polyflow](https://github.com/juapperez/polyflow) | No-code trading automation for Polymarket: visual strategies, backtests on real data, TypeScript export. |
 | [yield-kernel](https://github.com/juapperez/yield-kernel) | Self-custodial autonomous agent for DeFi yield, with a judge mode and an SSE autonomy stream. |
 | [music-investment-solana](https://github.com/juapperez/music-investment-solana) | Anchor program + Next.js app: artists sell shares in a project, investors claim revenue. Devnet, hackathon. |
