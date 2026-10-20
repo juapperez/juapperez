@@ -23,7 +23,7 @@ I build apps for musicians and the back-office software that pays them.
 | [polyflow](https://github.com/juapperez/polyflow) | No-code trading automation for Polymarket: visual strategies, backtests on real data, TypeScript export. |
 | [yield-kernel](https://github.com/juapperez/yield-kernel) | Self-custodial autonomous agent for DeFi yield, with a judge mode and an SSE autonomy stream. |
 | [music-investment-solana](https://github.com/juapperez/music-investment-solana) | Anchor program + Next.js app: artists sell shares in a project, investors claim revenue. Devnet, hackathon. |
-| [organize-classnames](https://github.com/juapperez/organize-classnames) | VS Code extension that sorts class names on save. |
+| [organize-classnames](https://github.com/juapperez/organize-classnames) | VS Code extension that sorts class names on save. [On the Marketplace](https://marketplace.visualstudio.com/items?itemName=juapperez.organize-classnames). |
 | [Smart-image-optimizer](https://github.com/juapperez/Smart-image-optimizer) | WordPress plugin: WebP/AVIF for every image size, `<picture>` with safe fallbacks. |
 
 Most of my day-to-day work lives in private company and client repositories.
